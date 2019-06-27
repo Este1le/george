@@ -1,0 +1,26 @@
+name: TransNumLayersKernel
+stationary: false
+params: []
+
+doc: |
+    The transformer's num_layers kernel.
+
+value: |
+    if(x1 != x2) {
+        return 0.85;
+    }
+    else {
+        if(x1 == 0) {
+            return 0.9;
+        }
+        else if(x1 == 1) {
+            return 0.85;
+        }
+    }
+
+grad:
+    x1: |
+        return 0.0;
+
+    x2: |
+        return 0.0;

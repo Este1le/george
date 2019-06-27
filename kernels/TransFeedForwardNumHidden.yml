@@ -1,0 +1,21 @@
+name: TransFeedForwardNumHiddenKernel
+stationary: false
+params: []
+
+doc: |
+    The transformer's transformer_feed_forward_num_hidden kernel.
+
+value: |
+    if(x1 != x2) {
+        return 0.95;
+    }
+    else {
+        return 0.85;
+    }
+
+grad:
+    x1: |
+        return 0.0;
+
+    x2: |
+        return 0.0;
