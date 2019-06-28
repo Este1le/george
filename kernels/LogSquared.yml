@@ -1,0 +1,15 @@
+name: LogSquaredKernel
+stationary: true
+
+doc: |
+    The logrithm-squared kernel is a stationary kernel where the value
+    at a given radius :math:`r^2` is given by:
+
+    .. math::
+
+        k(r^2) = -\log ( r^2 )
+
+value: return -log(r2);
+
+grad:
+    r2: 0;
