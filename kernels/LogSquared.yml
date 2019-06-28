@@ -9,6 +9,6 @@ doc: |
 
         k(r^2) = -\log ( r^2 )
 
-value: return -log(r2+3e-44)
+value: return -log(r2 + 0.00000000000000000000000000000000000000000003
 grad:
-    r2: 0;
+    r2: 0.0;
