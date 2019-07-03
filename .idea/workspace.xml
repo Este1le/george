@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcda5d52-ca9e-4f1d-b5a9-8094cb7c4283" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/kernels/LogSquared.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/LogSquared.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransModelSize.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransModelSize.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransNumEmbed.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransNumEmbed.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernels/TransNumLayers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransNumLayers.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +33,7 @@
           <entry key="example" value="2" />
           <entry key="h" value="2" />
           <entry key="py" value="10" />
-          <entry key="yml" value="40" />
+          <entry key="yml" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -34,19 +41,19 @@
           <entry key="C++" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="10" />
-          <entry key="YAML_EX" value="39" />
+          <entry key="YAML_EX" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="h" value="8" />
-          <entry key="yml" value="773" />
+          <entry key="yml" value="792" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C++" value="8" />
-          <entry key="YAML_EX" value="773" />
+          <entry key="YAML_EX" value="792" />
         </counts>
       </usages-collector>
     </session>
@@ -54,69 +61,65 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/LocalGaussian.yml">
+        <entry file="file://$PROJECT_DIR$/kernels/TransAttentionHeads.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/Matern32.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/MaternGeneral.yml.example">
+        <entry file="file://$PROJECT_DIR$/kernels/TransBpeSymbols.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/Matern52.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/Polynomial.yml">
+        <entry file="file://$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="171">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/RationalQuadratic.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/kernels/TransInitialLearningRate.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kernels/TransModelSize.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kernels/LogSquared.yml">
+        <entry file="file://$PROJECT_DIR$/kernels/TransNumEmbed.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="171">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/ExpSquared.yml">
+        <entry file="file://$PROJECT_DIR$/kernels/TransNumLayers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="171">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kernels/ExpSine2.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108" />
           </provider>
         </entry>
       </file>
@@ -145,23 +148,23 @@
       <list>
         <option value="$PROJECT_DIR$/george/include/george/parser.h" />
         <option value="$PROJECT_DIR$/kernels/Heuristic.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransModelSize.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransNumEmbed.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransNumLayers.yml" />
         <option value="$PROJECT_DIR$/kernels/Euclidean.yml" />
         <option value="$PROJECT_DIR$/kernels/LogSquared.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransNumLayers.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransModelSize.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransNumEmbed.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1280" />
-    <option name="y" value="-120" />
+    <option name="y" value="-143" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -333,55 +336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransAttentionHeads.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransInitialLearningRate.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransModelSize.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransNumEmbed.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransNumLayers.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransBpeSymbols.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/george/gp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="964">
@@ -422,13 +376,6 @@
         <state relative-caret-position="-108" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/LocalGaussian.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kernels/Matern32.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -438,9 +385,6 @@
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/Matern52.yml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/kernels/Polynomial.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -456,13 +400,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/RationalQuadratic.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/kernels/ExpSquared.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -470,6 +411,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/RationalQuadratic.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/Matern52.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/LocalGaussian.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransNumLayers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransAttentionHeads.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransModelSize.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransBpeSymbols.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransInitialLearningRate.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransNumEmbed.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
