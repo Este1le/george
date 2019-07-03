@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcda5d52-ca9e-4f1d-b5a9-8094cb7c4283" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernels/TransModelSize.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransModelSize.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernels/TransNumEmbed.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransNumEmbed.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kernels/TransNumLayers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kernels/TransNumLayers.yml" afterDir="false" />
@@ -47,13 +44,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="h" value="8" />
-          <entry key="yml" value="792" />
+          <entry key="yml" value="806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C++" value="8" />
-          <entry key="YAML_EX" value="792" />
+          <entry key="YAML_EX" value="806" />
         </counts>
       </usages-collector>
     </session>
@@ -150,12 +147,12 @@
         <option value="$PROJECT_DIR$/kernels/Heuristic.yml" />
         <option value="$PROJECT_DIR$/kernels/Euclidean.yml" />
         <option value="$PROJECT_DIR$/kernels/LogSquared.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" />
+        <option value="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" />
         <option value="$PROJECT_DIR$/kernels/TransNumLayers.yml" />
         <option value="$PROJECT_DIR$/kernels/TransAttentionHeads.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransFeedForwardNumHidden.yml" />
         <option value="$PROJECT_DIR$/kernels/TransModelSize.yml" />
         <option value="$PROJECT_DIR$/kernels/TransBpeSymbols.yml" />
-        <option value="$PROJECT_DIR$/kernels/TransInitialLearningRate.yml" />
         <option value="$PROJECT_DIR$/kernels/TransNumEmbed.yml" />
       </list>
     </option>
@@ -427,6 +424,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/TransInitialLearningRate.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kernels/TransNumLayers.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -459,13 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kernels/TransInitialLearningRate.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>

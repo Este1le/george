@@ -7,7 +7,7 @@ doc: |
 
 value: |
     if(x1 != x2) {
-        return 0.41;
+        return 0.48;
     }
     else {
         return 1;
